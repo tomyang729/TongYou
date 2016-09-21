@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60b86b13-c051-4086-b2d6-64769a505b58" name="Default" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/TongYou.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+<<<<<<< HEAD
+=======
+>>>>>>> han
+>>>>>>> master
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-client/app.jsx" afterPath="$PROJECT_DIR$/react-client/app.jsx" />
     </list>
     <ignored path="TongYou.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,8 +81,18 @@
       <file leaf-file-name="app.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="6">
               <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="105">
+              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+=======
+            <state relative-caret-position="6">
+              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+>>>>>>> han
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -108,8 +128,18 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="351" />
     <option name="y" value="365" />
+=======
+<<<<<<< HEAD
+    <option name="x" value="300" />
+    <option name="y" value="97" />
+=======
+    <option name="x" value="351" />
+    <option name="y" value="365" />
+>>>>>>> han
+>>>>>>> master
     <option name="width" value="1346" />
     <option name="height" value="816" />
   </component>
@@ -266,16 +296,37 @@
       <workItem from="1474272598457" duration="943000" />
       <workItem from="1474284030642" duration="10545000" />
       <workItem from="1474408201542" duration="519000" />
+<<<<<<< HEAD
+      <workItem from="1474420689284" duration="466000" />
+=======
       <workItem from="1474420689284" duration="171000" />
       <workItem from="1474423200499" duration="210000" />
+<<<<<<< HEAD
+=======
+>>>>>>> han
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="38400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="351" y="365" width="1346" height="816" extended-state="0" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="38344000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="300" y="97" width="1346" height="816" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="38400000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="351" y="365" width="1346" height="816" extended-state="0" />
+>>>>>>> han
+>>>>>>> master
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17660378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -405,6 +456,108 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+=======
+    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1050">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding>
+            <element signature="e#1405#1585#0" expanded="false" />
+            <element signature="e#1618#1976#0" expanded="false" />
+            <element signature="e#2005#2134#0" expanded="false" />
+            <element signature="e#2169#2256#0" expanded="false" />
+            <element signature="e#2284#2520#0" expanded="false" />
+            <element signature="e#2547#2716#0" expanded="false" />
+            <element signature="e#2820#2901#0" expanded="false" />
+            <element signature="e#2935#3004#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/react-dom.js" />
+    <entry file="file://$PROJECT_DIR$/client/react.js" />
+    <entry file="file://$PROJECT_DIR$/client/JSXTransformer.js" />
+    <entry file="file://$PROJECT_DIR$/client/app.jsx" />
+    <entry file="file://$PROJECT_DIR$/react-client/browser.min.js" />
+    <entry file="file://$PROJECT_DIR$/react-client/react-dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/JSXTransformer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/img/p1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/img/p2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/modernizr.custom.js" />
+    <entry file="file://$PROJECT_DIR$/react-client/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="6" column="2567" selection-start-line="6" selection-start-column="2567" selection-end-line="6" selection-end-column="2567" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2760">
@@ -430,6 +583,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="92" column="66" selection-start-line="92" selection-start-column="66" selection-end-line="92" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+=======
+        <state relative-caret-position="2760">
+>>>>>>> han
+>>>>>>> master
+          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
+          <folding>
+            <element signature="e#1405#1585#0" expanded="false" />
+            <element signature="e#1618#1976#0" expanded="false" />
+            <element signature="e#2005#2134#0" expanded="false" />
+            <element signature="e#2169#2256#0" expanded="false" />
+            <element signature="e#2284#2520#0" expanded="false" />
+            <element signature="e#2547#2716#0" expanded="false" />
+            <element signature="e#2820#2901#0" expanded="false" />
+            <element signature="e#2935#3004#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2760">
@@ -448,6 +643,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
+<<<<<<< HEAD
+=======
+>>>>>>> han
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -493,6 +692,11 @@
         <state relative-caret-position="705">
           <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -510,6 +714,23 @@
             <element signature="e#2820#2901#0" expanded="false" />
             <element signature="e#2935#3004#0" expanded="false" />
           </folding>
+>>>>>>> han
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,6 +842,8 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/react-client/react.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -629,6 +852,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> han
     <entry file="file://$PROJECT_DIR$/react-client/JSXTransformer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -684,10 +908,31 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/react-client/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+=======
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
           <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+<<<<<<< HEAD
+=======
+>>>>>>> han
+>>>>>>> master
           <folding />
         </state>
       </provider>
