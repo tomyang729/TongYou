@@ -10,7 +10,7 @@ var navbar = [
 
 ReactDOM.render(
     <div>
-        <img src="img/logo.png" alt="Logo" height="42" width="42"/>
+        <img src="react-client/img/logo.png" alt="Logo" height="42" width="42"/>
         <h1>TongYou</h1>
         <ul>{navbar}</ul>
     </div>,
@@ -18,7 +18,7 @@ ReactDOM.render(
 );
 
 ReactDOM.render(
-    <img src="img/p2.png" alt="Logo"  width="100%"/>,
+    <img src="react-client/img/p2.png" alt="Logo"  width="100%"/>,
     document.getElementById('banner')
 );
 
@@ -45,7 +45,7 @@ ReactDOM.render(
         <h2>Explore the wonderful world</h2>
         <div className="col-xs-6 col-md-4 ">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/la.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/la.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
@@ -54,7 +54,7 @@ ReactDOM.render(
 
         <div className="col-xs-6 col-md-4">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/beijing.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/beijing.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
@@ -63,7 +63,7 @@ ReactDOM.render(
 
         <div className="col-xs-6 col-md-4">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/Sydney.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/Sydney.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
@@ -72,7 +72,7 @@ ReactDOM.render(
 
         <div className="col-xs-6 col-md-4">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/la.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/la.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
@@ -81,7 +81,7 @@ ReactDOM.render(
 
         <div className="col-xs-6 col-md-4">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/beijing.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/beijing.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
@@ -90,7 +90,7 @@ ReactDOM.render(
 
         <div className="col-xs-6 col-md-4">
             <a href="#" className="thumbnail hovereffect">
-                <img className="img-responsive" src="img/Sydney.jpg" alt=""></img>
+                <img className="img-responsive" src="react-client/img/Sydney.jpg" alt=""></img>
                 <div className="overlay">
                     <h2>Explore More!</h2>
                 </div>
