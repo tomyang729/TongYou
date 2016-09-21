@@ -1,0 +1,22 @@
+#nav-bar div{
+    display: inline-block;
+}
+
+#nav-bar div img{
+    margin-left: 50px;
+    top: 5px;
+    position: absolute;
+}
+
+#nav-bar div ul{
+    text-align: right;
+    margin-top: 22px;
+
+
+}
+
+#nav-bar a{
+    padding-right: 30px;
+
+}
+

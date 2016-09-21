@@ -1,0 +1,314 @@
+#nav-bar div img{
+    margin-left: 50px;
+    top: 5px;
+    position: absolute;
+}
+
+#nav-bar div ul{
+    margin-top: 22px;
+    text-align: right;
+}
+
+#nav-bar a{
+    padding-right: 30px;
+    color: black;
+}
+
+#nav-bar .atag{
+    border: solid 1px black;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: 30px;
+}
+
+#nav-bar div h1{
+    margin-left: 120px;
+    top: -13px;
+    position: absolute;
+
+}
+
+#nav-bar{
+
+    background: white;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    opacity: .9;
+
+}
+
+#footer{
+    text-align: center;
+    bottom:0;
+    border: 1px solid darkgray;
+    background: #2b2d2e;
+    width: 100%;
+}
+
+#footer div p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#footer div p a{
+    color: white;
+}
+
+#search-bar{
+    text-align: center;
+    margin-top: -70px;
+    position: absolute;
+    width: 100%;
+    height:70px;
+    background:rgba(0, 0, 0, 0.6);
+    padding-top: 15px;
+}
+
+
+#search-bar .input-g{
+    width: 70%;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+#hot-host .h-host{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+
+}
+
+#hot-host .h-host .c-shadow{
+
+}
+
+#hot-host img{
+    height:340px;
+    width: 320px;
+}
+
+#hot-host h2{
+    margin-bottom: 10%;
+}
+
+.guide h2{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/*Hover*/
+
+/*hover-effect*/
+#hot-host .hovereffect {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    box-shadow: 2px 2px 5px #888;
+}
+#hot-host .hovereffect .overlay {
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    top: auto;
+    bottom: 0;
+    padding: 1em;
+    height: 4.75em;
+    background: #79FAC4;
+    color: #3c4a50;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0,100%,0);
+    transform: translate3d(0,100%,0);
+}
+
+#hot-host .hovereffect img {
+    display: block;
+    position: relative;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+}
+
+#hot-host .hovereffect:hover img {
+    -webkit-transform: translate3d(0,-10%,0);
+    transform: translate3d(0,-10%,0);
+}
+
+#hot-host .hovereffect h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    float: left;
+    margin: 0px;
+    display: inline-block;
+}
+
+#hot-host .hovereffect h2{
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0,200%,0);
+    transform: translate3d(0,200%,0);
+}
+
+#hot-host .hovereffect:hover .overlay,
+#hot-host .hovereffect:hover h2,
+#hot-host .hovereffect:hover p{
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#hot-host .hovereffect:hover h2 {
+    -webkit-transition-delay: 0.05s;
+    transition-delay: 0.05s;
+}
+
+/*hover-effect*/
+
+
+.grid {
+    max-width: 1300px;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+    width: 77%;
+    box-shadow: 2px 2px 5px #888;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 5%;
+}
+
+.grid li {
+    display: inline-block;
+    margin: 0;
+    text-align: left;
+    position: relative;
+}
+
+.grid figure {
+    margin: 0;
+    position: relative;
+}
+
+.grid figure img {
+    max-width: 100%;
+    display: block;
+    position: relative;
+}
+
+.grid figcaption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background: #2c3f52;
+    color: #ed4e6e;
+    text-align: center;
+}
+
+.grid figcaption h3 {
+    margin-top: 10%;
+    text-align: center;
+    padding: 0;
+    color: #fff;
+}
+
+.grid figcaption span:before {
+    content: 'by ';
+}
+
+.grid figcaption a {
+    font-size: large;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 4px;
+    display: inline-block;
+    background: #ed4e6e;
+    color: #fff;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* Individual Caption Styles */
+
+/* Caption Style 1 */
+
+/* Caption Style 4 */
+.cs-style-4 li {
+    -webkit-perspective: 1700px;
+    -moz-perspective: 1700px;
+    perspective: 1700px;
+    -webkit-perspective-origin: 0 50%;
+    -moz-perspective-origin: 0 50%;
+    perspective-origin: 0 50%;
+}
+
+.cs-style-4 figure {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.cs-style-4 figure > div {
+    overflow: hidden;
+}
+
+.cs-style-4 figure img {
+    -webkit-transition: -webkit-transform 0.4s;
+    -moz-transition: -moz-transform 0.4s;
+    transition: transform 0.4s;
+}
+
+.no-touch .cs-style-4 figure:hover img,
+.cs-style-4 figure.cs-hover img {
+    -webkit-transform: translateX(-10%);
+    -moz-transform: translateX(-10%);
+    -ms-transform: translateX(-10%);
+    transform: translateX(-10%);
+}
+
+.cs-style-4 figcaption {
+    height: 100%;
+    width: 35%;
+    opacity: 0;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+    -webkit-transform: rotateY(90deg);
+    -moz-transform: rotateY(90deg);
+    transform: rotateY(90deg);
+    -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+    -moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+    transition: transform 0.4s, opacity 0.1s 0.3s;
+}
+
+.no-touch .cs-style-4 figure:hover figcaption,
+.cs-style-4 figure.cs-hover figcaption {
+    opacity: 1;
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    -webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+    -moz-transition: -moz-transform 0.4s, opacity 0.1s;
+    transition: transform 0.4s, opacity 0.1s;
+}
+
+.cs-style-4 figcaption a {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
