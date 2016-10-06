@@ -1,22 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60b86b13-c051-4086-b2d6-64769a505b58" name="Default" comment="">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> master
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/TongYou.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-<<<<<<< HEAD
-=======
->>>>>>> han
->>>>>>> master
+    <list default="true" id="5da90650-0936-438c-8f48-9e5760931683" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/1521709451253516657" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/467855819410820367" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/5244399176365750733_851366773253809054.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ActivityServer(1).bs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ActivityServer.bs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/Hotel_SingleItem_ImageFill_03.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/Hotel_SingleItem_ImageFill_03_468x60.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/Hotel_SingleItem_ImageFill_03_common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/IntersectionObserverVisibilityProvider(1).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/IntersectionObserverVisibilityProvider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/OBA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/OBA_DEFAULT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/abg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/adServer(1).bs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/adServer.bs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/addata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ads" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ads(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ads(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ads(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/async-ads.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/avs624.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/browserref.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bsevent(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bsevent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bsredirect5(1).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bsredirect5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bst2tv3(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/bst2tv3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ca(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ca(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/colorpicker.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/common_scripts_v4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/common_styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/container(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/container(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/container(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/cse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/default+en.I.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/default+en.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/dvtp_src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/dvtp_src_internal44.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/eb0c7c7d-71e6-4847-bece-e06fefa7aac0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ebHtml5Banner(1).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/ebHtml5Banner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/element_main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(10).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(11).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(12).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(13).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(14).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(2).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(3).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(4).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(5).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(6).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(7).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(8).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event(9).gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/event.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/expansion_embed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/get" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/get(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/google" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/google(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/googlelogo_color_112x36dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/gpt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/imp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/imp(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/jsapi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/l" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/l(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/l(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/l(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/layouts_bootstrap_v3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/m_js_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/main_zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/match" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/osd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/pubads_impl_95.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/push(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/push(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/push(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/push.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(4).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(5).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(6).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(7).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource(8).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/search_box_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/small-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/stdtheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/t2tv7(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/t2tv7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/translate_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/translateelement.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/utils_min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/verifyc(1).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/verifyc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/visit(1).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/visit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/w3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/w3schools_footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/CSS border property_files/w3schoolscom_gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/JSXTransformer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/app.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/axios.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/react-dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/react.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/TongYou_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/JSXTransformer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/app.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/Sydney.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/beijing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/guide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/guide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/guide3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/la.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/p1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/img/p2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/react-dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react-client/react.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-client/app.jsx" afterPath="$PROJECT_DIR$/react-client/app.jsx" />
     </list>
     <ignored path="TongYou.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,84 +165,8 @@
   <component name="FavoritesManager">
     <favorites_list name="TongYou" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2760">
-              <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-              <folding>
-                <element signature="e#1405#1585#0" expanded="false" />
-                <element signature="e#1618#1976#0" expanded="false" />
-                <element signature="e#2005#2134#0" expanded="false" />
-                <element signature="e#2169#2256#0" expanded="false" />
-                <element signature="e#2284#2520#0" expanded="false" />
-                <element signature="e#2547#2716#0" expanded="false" />
-                <element signature="e#2820#2901#0" expanded="false" />
-                <element signature="e#2935#3004#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="react.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-client/react.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="6">
-              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
-=======
-<<<<<<< HEAD
-            <state relative-caret-position="105">
-              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-=======
-            <state relative-caret-position="6">
-              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
->>>>>>> han
->>>>>>> master
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/react-client/js/modernizr.custom.js" />
-        <option value="$PROJECT_DIR$/react-client/css/style.css" />
-        <option value="$PROJECT_DIR$/react-client/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/react-client/app.jsx" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -124,24 +176,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
-    <option name="x" value="351" />
-    <option name="y" value="365" />
-=======
-<<<<<<< HEAD
-    <option name="x" value="300" />
-    <option name="y" value="97" />
-=======
-    <option name="x" value="351" />
-    <option name="y" value="365" />
->>>>>>> han
->>>>>>> master
-    <option name="width" value="1346" />
-    <option name="height" value="816" />
+    <option name="x" value="737" />
+    <option name="y" value="132" />
+    <option name="width" value="1070" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -150,7 +189,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -168,8 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,174 +235,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-client" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Sites/webdxd-fullstack" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/react-client/img" />
-      <recent name="$PROJECT_DIR$/public/img" />
-      <recent name="$PROJECT_DIR$/react-client" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/react-client" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60b86b13-c051-4086-b2d6-64769a505b58" name="Default" comment="" />
-      <created>1473837295088</created>
+      <changelist id="5da90650-0936-438c-8f48-9e5760931683" name="Default" comment="" />
+      <created>1475794495988</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1473837295088</updated>
-      <workItem from="1473837296267" duration="25777000" />
-      <workItem from="1474272598457" duration="943000" />
-      <workItem from="1474284030642" duration="10545000" />
-      <workItem from="1474408201542" duration="519000" />
-<<<<<<< HEAD
-      <workItem from="1474420689284" duration="466000" />
-=======
-      <workItem from="1474420689284" duration="171000" />
-      <workItem from="1474423200499" duration="210000" />
-<<<<<<< HEAD
-=======
->>>>>>> han
->>>>>>> master
+      <updated>1475794495988</updated>
+      <workItem from="1475794497658" duration="155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="38400000" />
+    <option name="totallyTimeSpent" value="155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="351" y="365" width="1346" height="816" extended-state="0" />
-=======
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="38344000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="300" y="97" width="1346" height="816" extended-state="0" />
-=======
-    <option name="totallyTimeSpent" value="38400000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="351" y="365" width="1346" height="816" extended-state="0" />
->>>>>>> han
->>>>>>> master
-    <editor active="true" />
+    <frame x="737" y="132" width="1070" height="780" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17660378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3107735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31181318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2862823" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -379,563 +304,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="5" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/react-dom.js" />
-    <entry file="file://$PROJECT_DIR$/client/react.js" />
-    <entry file="file://$PROJECT_DIR$/client/JSXTransformer.js" />
-    <entry file="file://$PROJECT_DIR$/client/app.jsx" />
-    <entry file="file://$PROJECT_DIR$/react-client/browser.min.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/react-dom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/JSXTransformer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/modernizr.custom.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/js/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="6" column="2567" selection-start-line="6" selection-start-column="2567" selection-end-line="6" selection-end-column="2567" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="91" column="58" selection-start-line="91" selection-start-column="58" selection-end-line="91" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-=======
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="1050">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/react-dom.js" />
-    <entry file="file://$PROJECT_DIR$/client/react.js" />
-    <entry file="file://$PROJECT_DIR$/client/JSXTransformer.js" />
-    <entry file="file://$PROJECT_DIR$/client/app.jsx" />
-    <entry file="file://$PROJECT_DIR$/react-client/browser.min.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/react-dom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/JSXTransformer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/modernizr.custom.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/js/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="6" column="2567" selection-start-line="6" selection-start-column="2567" selection-end-line="6" selection-end-column="2567" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="92" column="66" selection-start-line="92" selection-start-column="66" selection-end-line="92" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-=======
-        <state relative-caret-position="2760">
->>>>>>> han
->>>>>>> master
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> master
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-<<<<<<< HEAD
-=======
->>>>>>> han
->>>>>>> master
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> master
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
->>>>>>> han
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/react-dom.js" />
-    <entry file="file://$PROJECT_DIR$/client/react.js" />
-    <entry file="file://$PROJECT_DIR$/client/JSXTransformer.js" />
-    <entry file="file://$PROJECT_DIR$/client/app.jsx" />
-    <entry file="file://$PROJECT_DIR$/react-client/browser.min.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/react-dom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/react-client/react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
->>>>>>> han
-    <entry file="file://$PROJECT_DIR$/react-client/JSXTransformer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/img/p2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/modernizr.custom.js" />
-    <entry file="file://$PROJECT_DIR$/react-client/js/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="6" column="2567" selection-start-line="6" selection-start-column="2567" selection-end-line="6" selection-end-column="2567" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
-          <folding>
-            <element signature="e#1405#1585#0" expanded="false" />
-            <element signature="e#1618#1976#0" expanded="false" />
-            <element signature="e#2005#2134#0" expanded="false" />
-            <element signature="e#2169#2256#0" expanded="false" />
-            <element signature="e#2284#2520#0" expanded="false" />
-            <element signature="e#2547#2716#0" expanded="false" />
-            <element signature="e#2820#2901#0" expanded="false" />
-            <element signature="e#2935#3004#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/react-client/react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-=======
->>>>>>> master
-    <entry file="file://$PROJECT_DIR$/react-client/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
-<<<<<<< HEAD
-=======
->>>>>>> han
->>>>>>> master
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
