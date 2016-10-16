@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>TongYou</title>
@@ -6,12 +7,131 @@
     <link rel='stylesheet prefetch' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
     <link rel='stylesheet prefetch' href='http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css'>
     <link rel="stylesheet" href="../public/css/style.css">
-    <link rel="stylesheet" href=../public/css/style2.css">
+    <link rel="stylesheet" href="../public/css/style_2.css">
+
+
+
 </head>
 
 <body>
+    <div id="nav-bar">
+        <img src="../public/img/logo.png" alt="Logo" height="42" width="42" onclick=""/>
+
+        <ul class="nav">
+            <li id="search">
+                <i class="fa fa-search fa-lg" aria-hidden="true"></i>
+                <form action="" method="get">
+                    <input type="text" name="search_text" id="search_text" placeholder=" Search your destination ..."/>
+                </form>
+            </li>
+            <div class="b-bar">
+                <a class="atag">Become a Guide</a>
+                <a class="sign-a">Sign Up</a>
+                <a>Log In</a>
+            </div>
+        </ul>
+    </div>
+
+    <div id="map"></div>
+
+    <div id="result">
+        <div class="h-center text-center inline">
+            <div id="ph"><img class="photo circle inline" src="../public/img/photo.jpg"></div>
+            <div class="info">
+                <h2>Hey, I am Han</h2>
+                <h4>Vancouver, Canada - Member since June 2016</h4>
+                <h4 class="inline">Services: &nbsp
+                    <i class="fa fa-plane fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-car fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-bed fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-cutlery fa-2x" aria-hidden="true"></i>
+                    <i class="fa fa-camera-retro fa-2x" aria-hidden="true"></i>
+                </h4>
+            </div>
+        </div>
+
+        <div id="introduce" >
+            <p>My Name is Han Gao. Currently, I live in Vancouver, Canada. I am a chinese guy who loves travelling and sports.
+                I am an senior university student major in computer science. I cannot live without travelling, sports, musics and information technologies</p>
+
+        </div>
+
+        <div class="modify-routes">
+            <a href="#routes" class="button">Manage your routes</a>
+            <a href="#chat" class="button">Chat with me</a>
+        </div>
+
+        <div class="card-group">
+            <section class="giftcard">
+                <section class="giftcard-cover">
+                    <span> Stanley Park </span> <span> -> </span> <span> UBC </span> <span> -> </span> <span> VanDusen Botanical Garden </span>
+                </section>
+
+                <footer class="giftcard-footer">
+                    <div class="giftcard-text">
+                        <h1>GuideRoute #1</h1>
+                    </div>
+
+                        <div class="giftwrap">
+                            <a href="#add" class="button">Add</a>
+                            <a href="#show" class="button">show</a>
+                        </div>
+
+                </footer>
+            </section>
+
+            <section class="giftcard">
+                <section class="giftcard-cover">
+                    <span> Stanley Park </span> <span> -> </span> <span> UBC </span> <span> -> </span> <span> VanDusen Botanical Garden </span>
+                </section>
+
+                <footer class="giftcard-footer">
+                    <div class="giftcard-text">
+                        <h1>GuideRoute #2</h1>
+                    </div>
+
+                    <div class="giftwrap">
+                        <a href="#buy" class="button">Add</a>
+                        <a href="#buy" class="button">show</a>
+                    </div>
+
+                </footer>
+            </section>
+
+            <section class="giftcard">
+                <section class="giftcard-cover">
+                    <span> Stanley Park </span> <span> -> </span> <span> UBC </span> <span> -> </span> <span> VanDusen Botanical Garden </span>
+                </section>
+
+                <footer class="giftcard-footer">
+                    <div class="giftcard-text">
+                        <h1>GuideRoute #3</h1>
+                    </div>
+
+                    <div class="giftwrap">
+                        <a href="#buy" class="button">Add</a>
+                        <a href="#buy" class="button">show</a>
+                    </div>
+
+                </footer>
+            </section>
+        </div>
+
+
+        <div class="chat-popup">
+
+
+        </div>
+
+
+
+    </div>
+
+
+
 
 </body>
+
 
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
@@ -19,5 +139,7 @@
 <script src="../public/js/angular.min.js"></script>
 <script src="../public/js/app.js" ></script>
 
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHLJak89irFNzSttjWmxmYdzBtRpy33-Y&signed_in=true&libraries=places&callback=initMap"
+        async defer></script>
 
 </html>
