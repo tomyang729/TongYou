@@ -218,14 +218,48 @@ function initMap() {
 
 
     var autocomplete = new google.maps.places.Autocomplete(
-        (
-            document.getElementById('search_text')), {
-            types: ['(cities)']
-        });
-    places = new google.maps.places.PlacesService(map);
-
-
+        (document.getElementById('search_text')));
 
 }
 //google map end
+
+//live-chat
+(function() {
+
+    $('#live-chat header').on('click', function() {
+
+        $('.chat').slideToggle(300, 'swing');
+        $('.chat-message-counter').fadeToggle(300, 'swing');
+
+    });
+
+    $('.chat-close').on('click', function(e) {
+
+        e.preventDefault();
+        $('#live-chat').fadeOut(300);
+
+    });
+
+    $('.chat-button').on('click', function(e) {
+
+        document.getElementById("live-chat").style.display="block";
+
+    });
+
+}) ();
+//live-chat end
+
+
+//pannel
+$(document).ready(function() {
+    $('#list').click(function(event){event.preventDefault();$('#products .item').addClass('list-group-item');});
+    $('#grid').click(function(event){event.preventDefault();$('#products .item').removeClass('list-group-item');$('#products .item').addClass('grid-group-item');});
+});
+//pannel end
+
+//filter
+
+//filter end
+
+//google map2
 
