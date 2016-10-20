@@ -11,6 +11,7 @@ var storeSession = require('connect-mongo')(session);
 var routes = require('./routes/index');
 var search = require('./routes/search');
 var user = require('./routes/user');
+var guide = require('./routes/guide');
 
 // connect to database
 mongoose.connect('mongodb://localhost/tongYou');
@@ -31,7 +32,7 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
-//app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public'))); // this is separate from res.sendFile()
 app.use(session({
   secret: 'Tong You Wang',
   resave: false,
@@ -51,6 +52,7 @@ app.use(function (req, res, next) {
 // use routes
 app.use('/', routes);
 app.use('/user', user);
+app.use('/guide', guide);
 app.use('/search', search);
 
 // catch 404 and forward to error handler

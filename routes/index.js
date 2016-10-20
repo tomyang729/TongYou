@@ -1,5 +1,6 @@
 var express = require('express');
 var router = express.Router();
+var path = require('path');
 
 // import models
 var User = require('../models/user.js');
@@ -8,6 +9,7 @@ var User = require('../models/user.js');
 // HOME PAGE
 router.get('/', function (req, res) {
     res.render('index', {title: 'Home Page', message: 'Welcome to TongYou!'});
+    //res.sendFile(path.join(__dirname, '../public/html', 'index.html'));
 });
 
 // SIGN UP
