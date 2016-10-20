@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html ng-app="people">
+<head>
+    <title>TongYou</title>
+    <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel='stylesheet prefetch' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+    <link rel='stylesheet prefetch' href='http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css'>
+    <link rel="stylesheet" href="../public/css/style.css">
+    <link rel="stylesheet" href="../public/css/style_2.css">
+
+
+
+</head>
+
+<body>
+<div id="nav-bar">
+    <img src="../public/img/logo.png" alt="Logo" height="42" width="42" onclick=""/>
+
+    <ul class="nav">
+        <li id="search">
+            <i class="fa fa-search fa-lg" aria-hidden="true"></i>
+            <form action="" method="get">
+                <input type="text" name="search_text" id="search_text" placeholder=" Search your destination ..."/>
+            </form>
+        </li>
+        <div class="b-bar">
+            <a class="atag">Become a Guide</a>
+            <a class="sign-a">Sign Up</a>
+            <a>Log In</a>
+        </div>
+    </ul>
+</div>
+
+<div id="map2"></div>
+
+<div id="spots">
+    <div class="content">
+        <h4>Filters</h4>
+        <div id="categories">
+            <div><label for="airport">Airport</label><input name="category" type="checkbox" value="airport" id="airport"></div>
+            <div><label for="amusement_park">Amusement Park</label><input name="category" type="checkbox" value="amusement_park" id="amusement_park"></div>
+            <div><label for="aquarium">Aquarium</label><input name="category" type="checkbox" value="aquarium" id="aquarium" checked></div>
+            <div><label for="art_gallery">Art Gallery</label><input name="category" type="checkbox" value="art_gallery" id="art_gallery" checked></div>
+            <div><label for="bar">Bar</label><input name="category" type="checkbox" value="bar" id="bar"></div>
+            <div><label for="beauty_salon">Beauty Salon</label><input name="category" type="checkbox" value="beauty_salon" id="beauty_salon"></div>
+            <div><label for="bowling_alley">Bowling Alley</label><input name="category" type="checkbox" value="bowling_alley" id="bowling_alley"></div>
+            <div><label for="cafe">Cafe</label><input name="category" type="checkbox" value="cafe" id="cafe"></div>
+            <div><label for="casino">Casino</label><input name="category" type="checkbox" value="casino" id="casino" checked></div>
+            <div><label for="church">Church</label><input name="category" type="checkbox" value="church" id="church"></div>
+            <div><label for="lodging">Lodging</label><input name="category" type="checkbox" value="lodging" id="lodging"></div>
+            <div><label for="mosque">Mosque</label><input name="category" type="checkbox" value="mosque" id="mosque"></div>
+            <div><label for="movie_theater">Movie Theater</label><input name="category" type="checkbox" value="movie_theater" id="movie_theater"></div>
+            <div><label for="museum">Museum</label><input name="category" type="checkbox" value="museum" id="museum" checked></div>
+            <div><label for="night_club">Night Club</label><input name="category" type="checkbox" value="night_club" id="night_club"></div>
+            <div><label for="park">Park</label><input name="category" type="checkbox" value="park" id="park" checked></div>
+            <div><label for="restaurant">Restaurant</label><input name="category" type="checkbox" value="restaurant" id="restaurant"></div>
+            <div><label for="rv_park">RV Park</label><input name="category" type="checkbox" value="rv_park" id="rv_park"></div>
+            <div><label for="shopping_mall">Shopping Mall</label><input name="category" type="checkbox" value="shopping_mall" id="shopping_mall" checked></div>
+            <div><label for="spa">Spa</label><input name="category" type="checkbox" value="spa" id="spa"></div>
+            <div><label for="train_station">Train Station</label><input name="category" type="checkbox" value="train_station" id="train_station"></div>
+            <div><label for="transit_station">Transit Station</label><input name="category" type="checkbox" value="transit_station" id="transit_station"></div>
+            <div><label for="travel_agency">Travel Agency</label><input name="category" type="checkbox" value="travel_agency" id="travel_agency"></div>
+            <div><label for="university">University</label><input name="category" type="checkbox" value="university" id="university"></div>
+            <div><label for="zoo">Zoo</label><input name="category" type="checkbox" value="zoo" id="zoo"></div>
+        </div>
+
+        <button class="button-ter pull-right" id="clear-all" onclick="clearAll()" >Clear All</button>
+
+    </div>
+</div>
+
+</body>
+
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+<script src="../public/js/modernizr.custom.js"></script>
+<script src="../public/js/angular.min.js"></script>
+<script src="../public/js/bootstrap.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHLJak89irFNzSttjWmxmYdzBtRpy33-Y&signed_in=true&libraries=places&callback=initMap"
+        async defer></script>
+<script src="../public/js/app.js" ></script>
+<script src="../public/js/search.js"></script>
+<script src="../public/js/manageRoutes.js" ></script>
+
+
+
+</html>

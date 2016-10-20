@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    div
+        form(action='/finduser', method='get')
+            input(type='text', name='username', placeholder='user')
+            input(type='submit', value='Submit')

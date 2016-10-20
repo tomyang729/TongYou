@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    body
+        h1= message
+        hr
+        form(role='form', action='/login',method='post', style='max-width: 300px;')
+            .form-group
+                input(type='text', name='username', placeholder='Enter Username/Email')
+            .form-group
+                input(type='password', name='password', placeholder='Password')
+            button.btn.btn-defau(type='submit') Log in
