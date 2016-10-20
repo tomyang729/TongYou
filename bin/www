@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('TongYou2:server');
+var debug = require('debug')('TongYou:server');
 var http = require('http');
 var io = require('socket.io')(http);
 
