@@ -14,9 +14,10 @@ var GuideSchema = new Schema({
     firstname: String,
     lastname: String,
     phone: Number, // TODO: phone # validation
+    email: String,
     language: [],
     selfintro: String,
-    commentid: ObjectId,
+    //commentid: ObjectId,
     address:
     {
         street: String,

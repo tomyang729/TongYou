@@ -1,0 +1,82 @@
+extends layout
+
+block content
+    body
+        h1= message
+        hr
+        form(role='form', action='/guideRegister', method='post', style='max-width: 300px;')
+            .form-group
+                p First Name
+                input(type='text', name='firstname', placeholder='Firstname')
+            .form-group
+                p Last Name
+                input(type='text', name='lastname', placeholder='Lastname')
+            .form-group
+                p Age
+                input(type='number', name="age", placeholder='Age')
+            .form-group
+                p Gender:
+                input(type='radio', name="gender", value='male')
+                |  Male
+            .form-group
+                input(type='radio', name="gender", value='female')
+                |  Female
+            .form-group
+                p Phone Number
+                input(type='tel', name="phone", placeholder='Phone #')
+            .form-group
+                p Address:
+                input(type='text', name="street", placeholder='Street #')
+            .form-group
+                input(type='text', name="city", placeholder='City')
+            .form-group
+                input(type='text', name="state", placeholder='State/Province')
+            .form-group
+                input(type='text', name="country", placeholder='Country')
+            .form-group
+                input(type='text', name="postcode", placeholder='Postcode')
+            .form-group
+                p Self introduction
+                input(type='text', name="selfintro", placeholder='Breif Intro')
+            .form-group
+                p Language:
+                input(type='checkbox', name="language[]", value='English')
+                | English
+            .form-group
+                input(type='checkbox', name="language[]", value='French')
+                | French
+            .form-group
+                input(type='checkbox', name="language[]", value='Mandarin')
+                | Mandarin
+            .form-group
+                input(type='checkbox', name="language[]", value='Cantonese')
+                | Cantonese
+            .form-group
+                input(type='checkbox', name="language[]", value='Korean')
+                | Korean
+            .form-group
+                input(type='checkbox', name="language[]", value='Japanese')
+                | Japanese
+            .form-group
+                input(type='checkbox', name="language[]", value='Spanish')
+                | Spanish
+            .form-group
+                p Services
+                input(type='checkbox', name="plane", value=this.checked)
+                | Airport pickup/drop off
+            .form-group
+                input(type='checkbox', name="car", value=this.checked)
+                | Transportation within the city
+            .form-group
+                input(type='checkbox', name="bed", value=this.checked)
+                | Accommodation
+            .form-group
+                input(type='checkbox', name="cutlery", value=this.checked)
+                | Food recommendation
+            .form-group
+                input(type='checkbox', name="camera", value=this.checked)
+                | Take photos
+            br
+            button.btn.btn-defau(type='submit') Submit
+        a(href='/profile')
+            button.btn.btn-primary.pull-right(type="button") Cancel

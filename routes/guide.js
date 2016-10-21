@@ -10,7 +10,7 @@ router.get('/', function (req, res) {
 });
 
 router.delete('/:guide_id', function (req, res) {
-    User.remove({guideid: req.params.guide_id}, function (err, guide) {
+    Guide.remove({guideid: req.params.guide_id}, function (err, guide) {
         if (err) res.send(err);
         else {
             res.send("delete " + req.params.guide_id + " successfully");
