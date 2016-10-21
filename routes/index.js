@@ -4,6 +4,7 @@ var path = require('path');
 
 // import models
 var User = require('../models/user.js');
+var Guide = require('../models/guide');
 
 
 // HOME PAGE
@@ -111,6 +112,70 @@ router.get('/chat', function (req, res, next) {
         })
     } else {
         res.redirect('/login');
+    }
+});
+
+// GUIDE REGISTER
+router.get('/guideRegister', function (req, res, next) {
+    if (!req.session.userid) {
+        var err = new Error('Please log in first!');
+        err.status = 403; // Forbidden
+        next(err);
+    } else {
+        res.render('guideRegister', {title: 'Guide Register', message: 'Become a guide'})
+    }
+});
+
+router.post('/guideRegister', function (req, res, next) {
+    if (req.body.firstname && req.body.lastname && req.body.age &&
+        req.body.gender && req.body.phone && req.body.city && req.body.state &&
+        req.body.country && req.body.postcode && req.body.selfintro)
+    {
+        // find the user info first
+        User.findOne({'_id': req.session.userid}).exec(function (err, user) {
+            if (err) {
+                next(err);
+            } else {
+                // build the new guide info
+                var guide = new Guide();
+                guide.guideid = user._id;
+                guide.age = req.body.age;
+                guide.gender = req.body.gender;
+                guide.firstname = req.body.firstname;
+                guide.lastname = req.body.lastname;
+                guide.phone = req.body.phone;
+                guide.email = user.email;
+                guide.language = req.body.language;
+                guide.selfintro = req.body.selfintro;
+                guide.address.street = req.body.street;
+                guide.address.city = req.body.city;
+                guide.address.country = req.body.country;
+                guide.address.state = req.body.state;
+                guide.address.postcode = req.body.postcode;
+                guide.rating = undefined; // default
+                guide.avatar = undefined;
+                guide.routes = [];
+                guide.services.plane = req.body.plane;
+                guide.services.car = req.body.car;
+                guide.services.bed = req.body.bed;
+                guide.services.cutlery = req.body.cutlery;
+                guide.services.camera = req.body.camera;
+
+                guide.save(function (err) {
+                    if(err) {
+                        return next(err);
+                    } else {
+                        req.session.guideid = guide.guideid;
+                        res.redirect('/profile');
+                        console.log("register successfully");
+                    }
+                });
+            }
+        });
+    } else {
+        var err = new Error('Please fill in all required fields');
+        err.status = 400;
+        next(err);
     }
 });
 
