@@ -9,20 +9,21 @@ var Guide = require('../models/guide');
 
 // HOME PAGE
 router.get('/', function (req, res) {
-    res.render('index', {title: 'Home Page', message: 'Welcome to TongYou!'});
-    //res.sendFile(path.join(__dirname, '../public/html', 'index.html'));
+    //res.render('index', {title: 'Home Page', message: 'Welcome to TongYou!'});
+    res.sendFile(path.join(__dirname, '../public/html', 'index.html'));
 });
 
 // SIGN UP
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 router.get('/signup', function (req, res) {
     res.render('signup', {title: 'Sign Up', message: 'Sign Up'});
 });
-
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 router.post('/signup', function (req, res, next) {
     // TODO: check if the user already exist
     if(req.body.username &&
-    req.body.email &&
-    req.body.password) {
+        req.body.email &&
+        req.body.password) {
 
         user = new User();
         user.username = req.body.username;
@@ -47,18 +48,18 @@ router.post('/signup', function (req, res, next) {
 });
 
 // LOG IN
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 router.get('/login', function (req, res) {
     res.render('login', {title: 'Login', message: 'Login'});
 });
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 // check the authentication
 router.post('/login', function (req, res, next) {
     if (req.body.username && req.body.password) {
         User.authenticate(req.body.username, req.body.password, function (err, user) {
-            if (err || !user) {
-                var err = new Error('Incorrect username or password');
-                err.status = 401; // bad request
-                return next(err);
+            if (!user) {
+                res.redirect('/');
             } else { // create session
                 req.session.userid = user._id; // create a new attr. in req.session obj to map the session with user
                 res.redirect('/profile');

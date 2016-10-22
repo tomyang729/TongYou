@@ -18,8 +18,8 @@
         <ul class="nav">
             <li id="search">
                 <i class="fa fa-search fa-lg" aria-hidden="true"></i>
-                <form action="" method="get">
-                    <input type="text" name="search_text" id="search_text" placeholder=" Search your destination ..."/>
+                <form action="/search" method="get">
+                    <input id="top-search" class="srchFld" type="text" name="place" placeholder=" Search your destination ..."/>
                 </form>
             </li>
             <div class="b-bar">
@@ -43,36 +43,34 @@
             <div id="signup">
                 <h1>Sign Up for Free</h1>
 
-                <form action="/" method="post">
-
-                    <div class="top-row">
-                        <div class="field-wrap">
-                            <label>
-                                First Name<span class="req">*</span>
-                            </label>
-                            <input class="input1" type="text" required autocomplete="off" />
-                        </div>
+                <form action="/signup" method="post" onsubmit="return matchPassword()">
 
                         <div class="field-wrap">
                             <label>
-                                Last Name<span class="req">*</span>
+                                <span class="req">*</span>
                             </label>
-                            <input class="input1" type="text"required autocomplete="off"/>
+                            <input class="input1" type="text" required autocomplete="off" name='username' placeholder='Enter Username'/>
                         </div>
+
+                    <div class="field-wrap">
+                        <label>
+                            <span class="req">*</span>
+                        </label>
+                        <input class="input1" type="email" required autocomplete="off" name="email" placeholder='Email Address'/>
                     </div>
 
                     <div class="field-wrap">
                         <label>
-                            Email Address<span class="req">*</span>
+                            <span class="req">*</span>
                         </label>
-                        <input class="input1" type="email"required autocomplete="off"/>
+                        <input id="pass1" class="input1" type="password" required autocomplete="off" name='password' placeholder='Set A Password'/>
                     </div>
 
                     <div class="field-wrap">
                         <label>
-                            Set A Password<span class="req">*</span>
+                            <span class="req">*</span>
                         </label>
-                        <input class="input1" type="password"required autocomplete="off"/>
+                        <input id="pass2" class="input1" type="password" required autocomplete="off" placeholder='Enter Again to Confirm Password'/>
                     </div>
 
                     <button type="submit" class="button button-block"/>Get Started</button>
@@ -84,25 +82,19 @@
             <div id="login">
                 <h1>Welcome Back!</h1>
 
-                <form action="/" method="post">
+                <form action="/login" method="post">
 
                     <div class="field-wrap">
-                        <label>
-                            Email Address<span class="req">*</span>
-                        </label>
-                        <input class="input1" type="email"required autocomplete="off"/>
+                        <input class="input1" type="text" required name='username' placeholder='Enter Username/Email'/>
                     </div>
 
                     <div class="field-wrap">
-                        <label>
-                            Password<span class="req">*</span>
-                        </label>
-                        <input class="input1" type="password"required autocomplete="off"/>
+                        <input class="input1" type="password" required autocomplete="off" name='password' placeholder='Password'/>
                     </div>
 
-                    <p class="forgot"><a href="#">Forgot Password?</a></p>
+                    <p class="forgot"><a href="/">Forgot Password?</a></p>
 
-                    <button class="button button-block"/>Log In</button>
+                    <button type="submit" class="button button-block"/>Log In</button>
 
                 </form>
 
@@ -113,37 +105,19 @@
     </div> <!-- /form -->
 
 
-
     <div id="banner">
         <img src="../img/p2.png" alt="Logo"  width="100%" height="600px"/>
     </div>
 
     <section class="header">
-        <form action="" class="cont">
-            <input type="text" class="srchFld" placeholder=" Location"/>
+        <form action="/search" class="cont" method="get">
+            <input id='middle-search' type="text" class="srchFld" name='place' placeholder=" Location"/>
 
             <input type="text" id="txt-DateRange" name="txtDateRange" class="srchFld" placeholder=" Select a date range" data-from-field="txtDateFrom" data-to-field="txtDateTo" />
             <input type="hidden" value="" />
             <input type="hidden" value="" />
 
-            <div id="dd" class="dropdown srchFld">
-                <div class="front">
-                    <span>1 Guest</span>
-                </div>
-                <div class="back">
-                    <ul>
-                        <li>1 Guest</li>
-                        <li>2 Guest</li>
-                        <li>3 Guest</li>
-                        <li>4 Guest</li>
-                        <li>5 Guest</li>
-                        <li>6 or more</li>
-
-                    </ul>
-                </div>
-            </div>
-
-            <button onclick="{location.href='./guideDetail.html'}" type="button" class="srchBtn">Search</button>
+            <button type="submit" class="srchBtn">Search</button>
         </form>
     </section>
 
@@ -230,11 +204,25 @@
         <p><a href="">Contact and Support   |  http://www.tongyou.com  | <a>简体中文</a> Create by Tom, Han</a></p>
     </div>
 
+    <script src='../javascript/index.js'></script>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/angular.min.js"></script>
-    <script src="../js/app.js" ></script>
+    <script src="../javascript/lib/modernizr.custom.js"></script>
+    <script src="../javascript/lib/angular.min.js"></script>
+    <script src="../javascript/app.js" ></script>
+    <script>
+    function initAutocomplete() {
+    var autocomplete = new google.maps.places.Autocomplete(
+            (document.getElementById('middle-search'))
+    );
+    var autocomplete = new google.maps.places.Autocomplete(
+            (document.getElementById('top-search'))
+    );
+    //var input = document.getElementById('pac-input');
+    //var searchBox = new google.maps.places.SearchBox(autocomplete);
+    }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAX89UM-SlinVFcJR8pAb9Vq_PWN9m-rio&libraries=places&callback=initAutocomplete"></script>
 
 
 </body>
